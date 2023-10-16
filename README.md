@@ -11,6 +11,7 @@ Takes URL and keyword as inputs-
 ![image](https://github.com/akhons/SearchEngine/assets/116623774/c252f98f-0363-48fd-b1b9-80b306ca7485)
 
 Just prints "Data Found!!!" on the web page at "http://localhost:8081/SearchEngine/KeySearch" if the keyword is present in the contents of the URL.
+
 ![image](https://github.com/akhons/SearchEngine/assets/116623774/466136cf-5c81-44e9-ae57-699b0273dd45)
 
 Data stored in mysql database -
